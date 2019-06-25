@@ -1,0 +1,84 @@
+delimiter //
+CREATE TRIGGER upd_check BEFORE UPDATE ON customers
+       FOR EACH ROW
+       BEGIN
+           IF NEW.salary < 0 THEN
+               SET NEW.salary = 0;
+           ELSEIF NEW.salary > 100 THEN
+               SET NEW.salary = 100;
+           END IF;
+       END;//
+delimiter ;
+delimiter //
+CREATE OR REPLACE TRIGGER display_salary_changes
+BEFORE DELETE OR INSERT OR UPDATE ON customers 
+FOR EACH ROW 
+WHEN (NEW.ID > 0)
+DECLARE 
+   sal_diff number;
+BEGIN 
+   sal_diff := :NEW.salary  - :OLD.salary; 
+   dbms_output.put_line('Old salary: ' || :OLD.salary);
+   dbms_output.put_line('New salary: ' || :NEW.salary); 
+   dbms_output.put_line('Salary difference: ' || sal_diff);
+END;//
+delimiter;
+
+
+
+delimiter //
+CREATE TRIGGER upd_check BEFORE UPDATE ON account
+       FOR EACH ROW
+       BEGIN
+           IF NEW.amount < 0 THEN
+               SET NEW.amount = 0;
+           ELSEIF NEW.amount > 100 THEN
+               SET NEW.amount = 100;
+           END IF;
+       END;//
+delimiter ;
+
+delimiter //
+CREATE TRIGGER testref BEFORE UPDATE ON children
+  FOR EACH ROW
+  BEGIN
+    UPDATE children SET old_mobile = NEW.mobile;
+  END;//
+delimiter ;
+
+
+delimiter //
+CREATE TRIGGER testref BEFORE UPDATE ON children
+  FOR EACH ROW
+  BEGIN
+    UPDATE children SET old_mobile = NEW.mobile where cid like OLD.cid;
+  END;//
+delimiter ;
+
+update `children` set mobile="5555555555" where cid like '2';
+
+delimiter //
+CREATE TRIGGER testref BEFORE UPDATE ON children
+  FOR EACH ROW
+  BEGIN
+    UPDATE children SET old_mobile = NEW.mobile where cid like OLD.cid;
+  END;//
+delimiter ;
+
+drop trigger testref;
+
+show triggers;
+
+
+delimiter //
+CREATE TRIGGER upd_check AFTER UPDATE ON children
+    FOR EACH ROW
+    BEGIN
+       IF (OLD.mobile <> NEW.mobile) THEN
+         INSERT INTO refchild(cid, old_mobile)
+         VALUES (OLD.cid, OLD.mobile);
+       END IF;
+    END;//
+delimiter;
+
+update children set mobile="4444444444" where cid like '2'

@@ -1,0 +1,136 @@
+/* CSS Document */
+/*<-------GENERAL--------> */
+*{margin:0px; padding:0px;}
+body{background: url(../images/bg.jpg) top repeat-x #deeff7; font:12px Arial; color:#000; margin:0px; padding:0px;}
+h1{font:bold 15px verdana; color:#0a82bb; padding-bottom:5px; }
+h2{font:bold 16px Arial, Helvetica, sans-serif; color:#4e4e4e;}
+h3{font:bold 16px Arial, Helvetica, sans-serif; color:#4e4e4e;}
+i{font-size:13px; font-weight:bold;}
+img{border:0px;}
+p{font: normal 12px Arial, Helvetica, sans-serif; text-align:justify;}
+table, border { margin:0px; padding-left:5px; border:0px;}
+td{padding-left:5px;}
+a:hover {color:#FF3300}
+/*<-------ID--------> */
+#spacer{height:30px;}
+#maincontainer{width:100%; height:auto; margin:0px auto;}
+#content{ background:#fff; width:99%; height:auto; overflow:hidden; border:solid 3px #fff; margin-top:10px}
+#header{width:100%; background:url(../images/head.jpg) top left no-repeat #A5A5A5 ; height:180px}
+#marqueeheader{width:100%; repeat-x; height:20px; border-top:2px; margin-bottom:2px; font:bold 12px Verdana; color:#f23cbe}
+#icds{background:url(../images/icds.jpg) no-repeat #01A9DB; height:30px; border-top:3px solid #FFFFFF}
+
+#nav{ width:100%; background:url(../img/nav_bg.jpg) repeat-x; height:40px; border-top:3px solid #FFFFFF; margin-bottom:10px}
+#nav a{ font:bold 13px Arial; color:#FFFFFF; height:40px; text-decoration:none; padding-left:10px; padding-right:10px;padding-top:10px; display:block; margin-bottom:10px;}
+#nav a:hover{color:#000000; text-decoration:none; height:40px; padding-top:10px; margin-bottom:10px;}
+
+
+.nav1 td
+{
+	/*color: #330099;
+	font-size: 10pt;
+	font-family: Arial;
+	text-decoration: none;*/
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	padding-top: 0px;
+	display:block;
+}
+
+
+
+
+#bottom{width:100%; background:url(../images/footer_bg.jpg) repeat-x; height:26px; margin-top:25px;}
+#leftpanel{ float:left; width:25%; height:100%; overflow:hidden;}
+#midpanel{ float:left; width:45%; height:100%; overflow:hidden;}
+#rightpanel{ float:right; width:28%; padding-left:2%; height:100%; overflow:hidden;}
+#tmidpanl{width:100%; margin:0 auto; height:auto; background-color:#d9e9f9; }
+#login{ float:right; background:url(../images/login_bg.jpg) top no-repeat; width:280px; height:180px;}
+
+#login11{ float:right; background:url(../images/login_bgnew.jpg) top no-repeat; width:280px; height:300px;}
+
+#usefullink{ float:right; background:url(../images/link_bg.jpg) top no-repeat; height:500px; width:280px; margin-top:10px}
+
+#inheadyellowbar{background:#ffb913; height:30px; border-top:3px solid #FFFFFF}
+
+#inpagenav{ float:left; background:url(../images/sidenav_bg.jpg) top no-repeat #4599d7; width:225px; margin-right:25px}
+
+#inpagenav1
+{
+	float: left;
+	background:url(../images/sidenav_bg1.jpg) ;
+	
+	width: 225px;
+	margin-right: 25px;
+}
+
+#inmidpanel{ float:left; width:60%;}
+#inmidtblpanel{ float:right; width:74%; background:#fff5dc}
+#inrightpanel{ float:right; width:18%; height:100px;}
+#inhdbg{ width:100%; background:url(../images/inhd_bg.jpg) repeat-x #247ebc; padding-top:8px; padding-bottom:8px; border-top:3px solid #FFFFFF; margin-bottom:25px}
+#inform_panel{ margin:0px auto; width:100%; height:auto}
+
+#loghead{background:url(../images/frm_bg.jpg) top repeat-x #FFFFFF; height:90px; padding-top:30px; padding-bottom:10px}
+#logbottom{width:950px; height:50px; font:normal 11px Arial,; color:#005274; text-align:center; padding-top:5px; margin:0px auto}
+#logleft{float:left; width:500px; height:100px; padding:20px}
+#logright{ float:right; width:207px; height:307px; margin-right:45px; background:url(../images/login.gif) no-repeat top; margin-bottom:45px; padding:20px}
+#congradulate{font: 14px verdana;  color:#FFFFFF; width:433px; height:73px; padding:20px; margin:0px auto; padding:20px; background:url(../images/cong_bg.jpg) top no-repeat;}
+#signup{width:804px; margin:0px auto; padding:18px; background:url(../images/frm_bg.jpg) top repeat-x #fff; color:#333333; border:1px solid #0099CC}
+/*<-------CLASS--------> */
+.clear{ clear:both}
+
+.nav_brk{background:url(../images/nav_brk.jpg) no-repeat top; height:33px; width:2px}
+
+.copytxt{background:url(../images/footer.jpg) no-repeat; height:16px; font:normal 11px Arial; color:#1c1c1c;  padding-left:5px; align:center;}
+
+.side_link ul{ padding:0px; margin:0px; border:1px; border-color:#d7e3ea; margin-top:10px;}
+.side_link li{ list-style:none;  font:13px Arial; color:#1371af; padding-left:20px;padding-bottom:7px; padding-top:7px; line-height:16px; border:1px; border-color:#ffffff; border:solid 1px #ffffff;}
+.side_link li a{color:#ffffff; background-color:#3885d8; text-decoration:none;  }
+.side_link li a:hover{color:#000000; text-decoration:none;}
+
+.wthd{font:bold 15px verdana; color:#fff;}
+.ornghd{font:bold 15px verdana; color:#FF6600;}
+.ornghd1{font:bold 12px Arial; color:#FF6600;}
+.ornghd2{font:bold 12px Arial; color:#FF3300}
+.blkhd{font:bold 15px verdana; color:#000;}
+.wthd1{font:bold 12px Arial; color:#fff;}
+.wthd2{font:bold 13px Arial; color:#fff;}
+.wtlink{font:12px Arial; color:#fff;}
+.wtlink a{font:12px Arial; color:#fff; text-decoration:underline}
+.frmfld{background:#fff; border:1px solid #1371af; height:18px; width:180px; font:12px Arial; color:#005288;}
+.subbtn{font:bold 12px Arial; color:#fff; border:1px solid #fff; background:#1371af; width:70px; height:20px}
+.subbtn1{font:bold 12px Arial; color:#000; border:1px solid #000; background:#FF6600; height:20px; padding:0px 5px 0px 5px}
+
+.use_link ul{ padding:0px; margin:0px;}
+.use_link li{ list-style:none; background:url(../images/arrow1.gif) no-repeat; font:bold 12px Arial; color:#000; padding-left:16px; line-height:25px; border:solid 1px #808080;}
+.use_link li a{color:#8A0808; text-decoration:none;}
+.use_link li a:hover{color:#f94304; text-decoration:none;}
+
+.wtnew_link ul{ padding:0px; margin:0px;}
+.wtnew_link li{ list-style:none; background:url(../images/arrow2.gif) no-repeat; font:normal 12px Arial; color:#000; padding-left:16px; line-height:15px;}
+.blklink a{font:12px Arial; color:#000; text-decoration:underline;}
+.hdunderline{ background:url(../images/underlin.gif) bottom no-repeat; font:bold 15px verdana; color:#fff;}
+.in_link ul{padding:0px; margin:0px;}
+.in_link li{list-style:none; background:url(../images/arrow3.gif) no-repeat; font:12px Arial; color:#fff; padding-left:16px; line-height:25px;}
+.in_link li a{color:#fff; text-decoration:none;}
+.in_link li a:hover{color:#000; text-decoration:none;}
+.ornglink a{font:bold 12px Arial; color:#FF3300; text-decoration:underline}
+.ornglink a:hover{font:bold 12px Arial; color:#000}
+.txtfield1{height:19px; font:normal 12px Arial; color:#000; border: solid 1px #FF3300}
+.txtarea{font:normal 12px Arial; color:#000; border: solid 1px #FF3300}
+
+.extLink1 { background:url(../images/extLinkbg.gif) 0 0 repeat-x #B0E7F9; padding:10px; margin-top:5px; height:150px; border:1px solid #BCE5FE;}
+/* 05-01-12 */
+.extLink { background:url(../images/extLinkbg.gif) 0 0 repeat-x #B0E7F9; padding:10px; margin-top:5px;  height:200px;}
+.extLink ul{ padding:0px; margin:0px; list-style-type:none;}
+.extLink li{ font:bold 11px Arial; color:#5858FA; padding-bottom:5px; padding-left:3px;}
+.extLink li.worldBank{ background:url(../images/world-bank.gif) 0 0 no-repeat;}
+.extLink li.success{ background:url(../images/success.gif) 0 0 no-repeat; padding-top:3px;}
+.extLink li.services{ background:url(../images/services.gif) 0 0 no-repeat; padding-top:3px;}
+.extLink li.website{ background:url(../images/websites.gif) 4px 0 no-repeat;}
+.extLink li.cmmtt{ background:url(../images/committee.gif) 4px 0 no-repeat; padding-top:3px;}
+.extLink li.unicef{ background:url(../images/unicef-logo.gif) 0 0 no-repeat; padding-top:3px;}
+.extLink li a{color:#005D97; text-decoration:none;}
+.extLink li a:hover{color:#CE0000;}
+.extLink li.last { padding-bottom:5px;}

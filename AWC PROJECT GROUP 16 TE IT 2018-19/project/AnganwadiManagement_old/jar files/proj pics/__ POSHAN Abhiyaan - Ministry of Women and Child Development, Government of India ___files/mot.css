@@ -1,0 +1,229 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #d5d4d5; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #d4d4d4; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #fbfafb; SCROLLBAR-DARKSHADOW-COLOR: #d4d4d4
+}
+DIV {
+	SCROLLBAR-FACE-COLOR: #b6ed8f; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #d4d4d4; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-TRACK-COLOR: #fbfafb; SCROLLBAR-DARKSHADOW-COLOR: #d4d4d4
+}
+.gencontent {
+	FONT-SIZE: 11px; COLOR: #333333; LINE-HEIGHT: 150%; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text1 {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.textTip {
+	FONT-SIZE: 11px; COLOR: #9c9c9c; FONT-STYLE: italic; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.div1right {
+	PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; WIDTH: 90px; COLOR: #000000; PADDING-TOP: 2px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; TEXT-ALIGN: right
+}
+.div1rightbold {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; WIDTH: 90px; COLOR: #000000; PADDING-TOP: 2px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; TEXT-ALIGN: right
+}
+.txtMandatory {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text2 {
+	FONT-SIZE: 11px; COLOR: #3c4938; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #406793; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #28661e; PADDING-TOP: 12px; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text1bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Tahoma, sans-serif, Verdana; TEXT-DECORATION: none
+}
+.text2bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #3c4938; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text3bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #406793; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.text4bold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #28661e; FONT-FAMILY: Tahoma, sans-serif, Verdana; TEXT-DECORATION: none
+}
+.alerttext {
+	FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Tahoma, sans-serif, Verdana; TEXT-DECORATION: none
+}
+.alerttextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ff0000; FONT-FAMILY: Tahoma, sans-serif, Verdana; TEXT-DECORATION: none
+}
+A.link1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #2e4e72; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.link1:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #2e4e72; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+A.link2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #2e7621; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.link2:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #3fa22d; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+A.linktxt3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e9eef5; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.linktxt3:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #e9eef5; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+A.linkbtn {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #2e4e72; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.linkbtn1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #0000cc; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+A.linkbtn:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #2e4e72; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+.pageheader1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; COLOR: #34411b; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.pageheader2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; COLOR: #4bab23; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.subheader1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #34411b; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.subheader2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #377b1a; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.b1 {
+	BORDER-RIGHT: #51693e 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #c8f1a9 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #d3f4bb 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #334a22 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #5c7c3f
+}
+.bAddNew {
+	BORDER-RIGHT: #51693e 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #c8f1a9 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #d3f4bb 1px solid; WIDTH: 60px; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #334a22 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #5c7c3f
+}
+.b2 {
+	BORDER-RIGHT: #2f4155 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #8fadcf 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #a7bfd9 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #20364e 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #6b93bf
+}
+.button1 {
+	BORDER-RIGHT: #40628c 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #40628c 1px solid; PADDING-LEFT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; BORDER-LEFT: #40628c 1px solid; COLOR: #426693; PADDING-TOP: 1px; BORDER-BOTTOM: #40628c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #eff2f8
+}
+.tabhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 22px; BACKGROUND-COLOR: #bde1a2
+}
+.tabhead1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 22px; BACKGROUND-COLOR: #bde1a2
+}
+.menuGreen {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 22px; BACKGROUND-COLOR: #d7f5cf
+}
+.tabcontent1 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; LINE-HEIGHT: 130%; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; TOP: 2px; HEIGHT: 20px; BACKGROUND-COLOR: #f9fcf5
+}
+.tabcontent2 {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; LINE-HEIGHT: 130%; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 20px; BACKGROUND-COLOR: #eef8e7
+}
+.divContent {
+	BORDER-RIGHT: #c3d69b 1px solid; BORDER-TOP: #c3d69b 1px solid; BORDER-LEFT: #c3d69b 1px solid; BORDER-BOTTOM: #c3d69b 1px solid; TEXT-ALIGN: center
+}
+.tdBorder {
+	BORDER-RIGHT: #c3d69b 1px solid; BORDER-TOP: #c3d69b 1px solid; BORDER-LEFT: #c3d69b 1px solid; BORDER-BOTTOM: #c3d69b 1px solid
+}
+.divPanelHeader {
+	WIDTH: 100%; TEXT-ALIGN: left
+}
+.tbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 150px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxlarge {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 200px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxlarge250 {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 250px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxlarge300 {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 300px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxverylarge {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 615px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxsmall {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 60px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tboxverysmall {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 30px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: right
+}
+.tbox1right {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 90px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: right
+}
+.tbox1 {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tbox2 {
+	BORDER-RIGHT: #819ebc 1px solid; BORDER-TOP: #819ebc 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #819ebc 1px solid; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #819ebc 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff
+}
+.tarea1 {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BEHAVIOR: url(../../includes/textAreaBox.htc); BORDER-LEFT: #a5c09c 1px solid; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.tarea2 {
+	BORDER-RIGHT: #819ebc 1px solid; BORDER-TOP: #819ebc 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BEHAVIOR: url(../../includes/textAreaBox.htc); BORDER-LEFT: #819ebc 1px solid; WIDTH: 615px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #819ebc 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #ffffff
+}
+.dropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: capitalize; BORDER-LEFT: #a5c09c 1px solid; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.minidropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: capitalize; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 40px; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.smalldropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: capitalize; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 100px; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.mediumdropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: capitalize; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 150px; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.largedropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; TEXT-TRANSFORM: capitalize; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 250px; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.checkbox1 {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; COLOR: #333333; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: tahoma, arial, verdana, helvetica; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.listbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 100%; COLOR: #200d00; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana, "Times New Roman"; BACKGROUND-COLOR: #fbfcf2; TEXT-DECORATION: none
+}
+.tableBg {
+	BACKGROUND-COLOR: #c3d69b
+}
+.tableBgBorder {
+	BORDER-RIGHT: #bde1a2 thin solid; BORDER-TOP: #bde1a2 thin solid; BORDER-LEFT: #bde1a2 thin solid; BORDER-BOTTOM: #bde1a2 thin solid; BACKGROUND-COLOR: #c3d69b
+}
+.pagetextbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #a5c09c 1px solid; WIDTH: 30px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: right
+}
+.textbox3 {
+	BORDER-RIGHT: #5a83b4 1px solid; BORDER-TOP: #5a83b4 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BORDER-LEFT: #5a83b4 1px solid; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #5a83b4 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; HEIGHT: 15px; BACKGROUND-COLOR: #99b1d0
+}
+.calImage {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; VERTICAL-ALIGN: top; WIDTH: 24px; PADDING-TOP: 1px; HEIGHT: 18px; BORDER-RIGHT-WIDTH: 0px
+}
+.tarea1Alert1 {
+	BORDER-RIGHT: #ff0000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #ff0000 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FILTER: alpha(opacity=70); PADDING-BOTTOM: 2px; MARGIN: 1px; BORDER-LEFT: #ff0000 1px solid; WIDTH: 185px; COLOR: #ff0000; PADDING-TOP: 2px; BORDER-BOTTOM: #ff0000 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; POSITION: absolute; HEIGHT: 10px; BACKGROUND-COLOR: #ffff66; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.tarea1Alert {
+	BORDER-RIGHT: #0066ff 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #0066ff 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: bold; FONT-SIZE: 9px; FILTER: alpha(opacity=70); PADDING-BOTTOM: 2px; MARGIN: 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #0066ff 1px solid; WIDTH: 185px; COLOR: #000099; PADDING-TOP: 2px; BORDER-BOTTOM: #0066ff 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; POSITION: absolute; HEIGHT: 13px; BACKGROUND-COLOR: #99ccff; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.compdropdownbox {
+	BORDER-RIGHT: #a5c09c 1px solid; BORDER-TOP: #a5c09c 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: normal; FONT-SIZE: 11px; BEHAVIOR: url(../../includes/ComponentDropDown.htc); BORDER-LEFT: #a5c09c 1px solid; COLOR: #000000; PADDING-TOP: 0px; BORDER-BOTTOM: #a5c09c 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #ffffff
+}
+A.linktxt1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0062c9; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.linktxt1:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0062c9; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+A.linktxt4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #3f4b3d; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+A.linktxt4:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #3f4b3d; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: underline
+}
+.schemedata {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #3f4b3d; FONT-FAMILY: Tahoma, Arial, Verdana; TEXT-DECORATION: none
+}
+.tabheadFload {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 11px; PADDING-BOTTOM: 1px; COLOR: #000000; PADDING-TOP: 1px; FONT-FAMILY: Tahoma, Arial, Verdana; POSITION: relative; ; TOP: expression(this.offsetParent.scrollTop); HEIGHT: 22px; BACKGROUND-COLOR: #bde1a2
+}
+.headertxt {
+	BORDER-RIGHT: #51693e 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #c8f1a9 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 18px; PADDING-BOTTOM: 1px; BORDER-LEFT: #d3f4bb 1px solid; COLOR: #990000; PADDING-TOP: 1px; BORDER-BOTTOM: #334a22 1px solid; FONT-FAMILY: Tahoma, Arial, Verdana; BACKGROUND-COLOR: #FFCACA
+}
+

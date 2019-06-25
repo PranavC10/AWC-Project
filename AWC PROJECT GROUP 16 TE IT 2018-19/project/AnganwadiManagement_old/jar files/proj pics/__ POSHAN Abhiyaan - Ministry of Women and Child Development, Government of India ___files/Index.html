@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- saved from url=(0049)https://www.icds-wcd.nic.in/nnm/Slider/Index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="./y.css">
+</head><body>
+
+<div class="w3-content w3-section" style="max-width:700px">
+  <p></p>
+
+  <img class="mySlides w3-animate-fading" src="./1.jpg" style="width: 100%; display: none;">
+  <img class="mySlides w3-animate-fading" src="./2.jpg" style="width: 100%; display: none;">
+  <img class="mySlides w3-animate-fading" src="./3.jpg" style="width: 100%; display: block;">
+  <img class="mySlides w3-animate-fading" src="./4.jpg" style="width: 100%; display: none;">
+  <img class="mySlides w3-animate-fading" src="./5.jpg" style="width: 100%; display: none;">
+  <img class="mySlides w3-animate-fading" src="./6.jpg" style="width: 100%; display: none;">
+  <!-- <img class="mySlides w3-animate-fading" src="7.jpg" style="width:100%"> -->
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 5000);    
+}
+</script>
+
+
+
+</body></html>

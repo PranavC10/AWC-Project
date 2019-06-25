@@ -1,0 +1,24 @@
+.MainMenuControl {
+	MARGIN-LEFT: 40px
+}
+.MenuHead {
+	BORDER-RIGHT: #4774a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #4774a5 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #4774a5 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #4774a5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 24px; BACKGROUND-COLOR: #6a93bf; TEXT-DECORATION: none
+}
+.MenuHeadHover {
+	BORDER-RIGHT: #4774a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #4774a5 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #4774a5 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #4774a5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 24px; BACKGROUND-COLOR: #446f9d; TEXT-DECORATION: none
+}
+.MenuHeadSelected {
+	BORDER-RIGHT: #4774a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #4774a5 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; PADDING-BOTTOM: 3px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #4774a5 1px solid; COLOR: #ffffff; PADDING-TOP: 3px; BORDER-BOTTOM: #4774a5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 24px; BACKGROUND-COLOR: #446f9d; TEXT-DECORATION: none
+}
+.SMenu {
+	BORDER-RIGHT: #4774a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #4774a5 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; Z-INDEX: 1; PADDING-BOTTOM: 1px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #4774a5 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #4774a5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #6a93bf; TEXT-DECORATION: none
+}
+.SMenu1 {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; Z-INDEX: 1; PADDING-BOTTOM: 1px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #6a93bf; TEXT-DECORATION: none
+}
+.SMenuHover {
+	BORDER-RIGHT: #ffffff 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ffffff 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; Z-INDEX: 1; PADDING-BOTTOM: 1px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #ffffff 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #446f9d; TEXT-DECORATION: none
+}
+.SMenuSelected {
+	BORDER-RIGHT: #4774a5 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #4774a5 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 12px; Z-INDEX: 1; PADDING-BOTTOM: 1px; MARGIN: 0px; VERTICAL-ALIGN: middle; BORDER-LEFT: #4774a5 1px solid; COLOR: #ffffff; PADDING-TOP: 1px; BORDER-BOTTOM: #4774a5 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #446f9d; TEXT-DECORATION: none
+}
